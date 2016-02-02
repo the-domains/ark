@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://ark.gamepedia.com/Simple_Rifle_Ammo'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - upgrade
   - craft
 description: ''
-datePublished: '2016-02-02T23:42:23.549Z'
-dateModified: '2016-02-02T23:40:42.961Z'
+datePublished: '2016-02-02T23:54:49.070Z'
+dateModified: '2016-02-02T23:54:43.867Z'
 author: []
 related: []
 app_links: []
 title: Ark Quick References
+sourcePath: _posts/2016-02-02-ark-quick-references.md
+published: true
 authors: []
 publisher:
   name: 'ARK: Survival Evolved Wiki'
   domain: ark.gamepedia.com
   url: 'http://ark.gamepedia.com'
   favicon: 'http://hydra-media.cursecdn.com/ark.gamepedia.com/6/64/Favicon.ico'
-sourcePath: _posts/2016-02-02-ark-quick-references.md
-published: true
+url: ark-quick-references/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
