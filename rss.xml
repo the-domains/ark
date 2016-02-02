@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ark]]></title>
         <description><![CDATA[ark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 23:42:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 23:42:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ark Quick References]]></title>
+            <description><![CDATA[<h1>Ark Quick References</h1>]]></description>
+            <link>http://ark.gamepedia.com/Simple_Rifle_Ammo</link>
+            <guid isPermaLink="false">b9828a9c-87fe-48a0-a374-339a9d14cfe1</guid>
+            <pubDate>Tue, 02 Feb 2016 23:42:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Raid Damage Tables]]></title>
             <description><![CDATA[<h1>Raid Damage Tables</h1>]]></description>
-            <link>undefinedraid-damage-tables/index.html</link>
+            <link>https://thegrid.ai/ark/raid-damage-tables/index.html</link>
             <guid isPermaLink="false">d9173712-cf13-476a-9ffc-e69f3f3cde7d</guid>
             <pubDate>Tue, 02 Feb 2016 23:42:15 GMT</pubDate>
         </item>
